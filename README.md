@@ -28,6 +28,6 @@ JPEGファイルもPNGファイルも実行できます。
 
 ## 3. 参考記事
 
-[https://note.com/junf/n/n553d4a9a99c3](Python で JPG ファイルから Exif 情報を削除する｜Junf / Jade｜note)
-[https://chayarokurokuro.hatenablog.com/entry/2019/09/19/230924](【Pillow】画像ファイルからExif情報を削除する - よちよちpython)
-[https://qiita.com/Klein/items/a04cf1a6c94d6f03846e](PILでEXIF Orientationタグを考慮して処理 - Qiita)
+[Python で JPG ファイルから Exif 情報を削除する｜Junf / Jade｜note](https://note.com/junf/n/n553d4a9a99c3)  
+[【Pillow】画像ファイルからExif情報を削除する - よちよちpython](https://chayarokurokuro.hatenablog.com/entry/2019/09/19/230924)  
+[PILでEXIF Orientationタグを考慮して処理 - Qiita](https://qiita.com/Klein/items/a04cf1a6c94d6f03846e)
